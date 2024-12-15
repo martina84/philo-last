@@ -1,0 +1,8 @@
+:root {
+  --primary: #FE5D37;
+  --light: #FFF5F3;
+  --dark: #103741;
+}
+body{
+  background-color: #FFF5F3;
+}
