@@ -46,14 +46,6 @@ export default function App() {
           <MDBBtn outline color="light" floating className='m-1 rounded-circle' href='#!' role='button'>
             <MDBIcon fab icon='whatsapp' />
           </MDBBtn>
-          <MDBBtn outline color="light" floating className='m-1 rounded-circle' href='#!' role='button'>
-            <MDBIcon fab icon='facebook' />
-          </MDBBtn>
-
-          <MDBBtn outline color="light" floating className='m-1 rounded-circle' href='#!' role='button'>
-            <MDBIcon fab icon='linkedin-in' />
-          </MDBBtn>
-
 
         </section>
       </MDBContainer>
