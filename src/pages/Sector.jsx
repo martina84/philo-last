@@ -25,7 +25,7 @@ function Sector() {
   
   return (
     <>
-        <Navbar className=" navbar navbar-expand-lg bg-white navbar-light sticky-top px-4 px-lg-5 py-lg-0">
+        <Navbar className=" navbar navbar-expand-lg bg-white navbar-light sticky-top px-4 px-lg-5 py-lg-0 ">
           <Navbar.Brand>
             <img className='logo' src={logo} alt="logo" />
             <h1 className="m-0 d-inline-block text-primary">{t("logo")}</h1>

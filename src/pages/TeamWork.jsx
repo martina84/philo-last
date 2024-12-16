@@ -17,7 +17,6 @@ return (
                                 <p className="mb-1">
                                {t("team")}
                                 </p>
-                                <p>{t("team2")}</p>
                             </div>
                         </div>
                         <div className="col-lg-6 wow fadeIn" style={{ minHeight: '400px'}}>

@@ -1,5 +1,4 @@
 import React from 'react'
-import { Link } from 'react-router-dom';
 import objective from '../assets/images/collaboration-partner-hands-600px.jpg';
 import { useTranslation } from 'react-i18next';
 
@@ -24,7 +23,6 @@ return (
                                 <p className="mb-4"> 
                                     {t('objectives')}
                                 </p>
-                                <Link className="btn btn-primary py-3 px-5" to="https://docs.google.com/forms/d/e/1FAIpQLSd-Qe-xHywvEM7v74hibEXFE-hedvmkUtkd_0OqvdFVnXbrRA/viewform?usp=sf_link">{t('objectives-btn')}<i className="fa fa-arrow-right ms-2"></i></Link>
                             </div>
                         </div>
                     </div>

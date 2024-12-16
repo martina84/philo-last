@@ -21,7 +21,7 @@ return (
                                 <span className="bg-primary"></span>
                             </div>
                             <div className="facility-text bg-primary">
-                                <h3 className="text-primary mb-3">{t('start-title')}</h3>
+                                <h3 className="text-primary mb-2">{t('start-title')}</h3>
                                 <p className="mb-0">{t('start')} </p>
                             </div>
                         </div>
@@ -34,7 +34,7 @@ return (
                                 <span className="bg-success"></span>
                             </div>
                             <div className="facility-text bg-success">
-                                <h3 className="text-success mb-3">{t("founders-title")}</h3>
+                                <h3 className="text-success mb-2">{t("founders-title")}</h3>
                                 <p className="mb-0"> {t("founders")} </p>
                             </div>
                         </div>
@@ -47,7 +47,7 @@ return (
                                 <span className="bg-warning"></span>
                             </div>
                             <div className="facility-text bg-warning">
-                                <h3 className="text-warning mb-3">{t("vision-title")}</h3>
+                                <h3 className="text-warning mb-2">{t("vision-title")}</h3>
                                 <p className="mb-0">{t("vision")}</p>
                             </div>
                         </div>
