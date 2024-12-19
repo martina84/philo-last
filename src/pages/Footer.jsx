@@ -11,10 +11,7 @@
 //                     <div className="col-lg-12 col-md-6">
 //                         <div className="row">
 //                         <div className="d-flex pt-2 justify-content-center">
-//                             <Link className="btn btn-outline-light btn-social" href=""><i className="fab fa-twitter"></i></Link>
-//                             <Link className="btn btn-outline-light btn-social" href=""><i className="fab fa-facebook-f"></i></Link>
 //                             <Link className="btn btn-outline-light btn-social" to=""><i class="fab fa-whatsapp"></i></Link>
-//                             <Link className="btn btn-outline-light btn-social" href=""><i className="fab fa-linkedin-in"></i></Link>
 //                         </div>
 //                         </div>
 //                     </div>
