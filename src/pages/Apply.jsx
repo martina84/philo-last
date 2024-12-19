@@ -1,8 +1,6 @@
 
 import React from 'react';
-import userImage1 from '../assets/images/cute-girl-student-cartoon-character-in-school-vector-47498931.jpg';
-import userImage2 from "../assets/images/ai-generated-8862067_640.webp";
-import userImage3 from "../assets/images/school-students-digital-art-style-education-day_23-2151164396.avif";
+import userImage3 from "../assets/images/hand-writing.png";
 import { Link } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 
@@ -26,13 +24,7 @@ return (
                     <div className="col-lg-6 about-img wow fadeInUp">
                         <div className="row">
                             <div className="col-12 text-center">
-                                <img className="img-fluid w-75 rounded-circle bg-light p-3" src={userImage3} alt=""/>
-                            </div>
-                            <div className="col-6 text-start" style={{ marginTop: '-150px' }}>
-                                <img className="img-fluid w-100 rounded-circle bg-light p-3 h-75" src={userImage2} alt=""/>
-                            </div>
-                            <div className="col-6 text-end" style={{ marginTop: '-150px'}}>
-                                <img className="img-fluid w-100 rounded-circle bg-light p-3 h-75" src={userImage1} alt=""/>
+                                <img className="img-fluid w-100 rounded-circle  p-3" src={userImage3} alt="hand-writing"/>
                             </div>
                         </div>
                     </div>

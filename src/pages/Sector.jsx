@@ -40,10 +40,10 @@ function Sector() {
             </Nav> */}
             { i18n.language === 'en' && <button className="btn btn-danger px-3 ms-3" onClick={()=> {
               i18n.changeLanguage('ar');
-            }}>AR</button> }
+            }}>العربية</button> }
             { i18n.language === 'ar' && <button className="btn btn-danger px-3 ms-3" onClick={()=> {
               i18n.changeLanguage('en');
-            }}>EN</button>}          
+            }}>English</button>}          
           </Navbar.Collapse>
         </Navbar>
     </>
