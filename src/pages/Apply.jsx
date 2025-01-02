@@ -15,11 +15,6 @@ return (
                     <div className="col-lg-6 wow fadeInUp">
                         <h1 className="mb-4">{t('apply-title')}</h1>
                         <p> {t("apply")}</p>
-                        <div className="row g-4 align-items-center">
-                            <div className="col-sm-6">
-                                <Link className="btn btn-primary rounded-pill py-3 px-5" to="https://docs.google.com/forms/d/e/1FAIpQLSd-Qe-xHywvEM7v74hibEXFE-hedvmkUtkd_0OqvdFVnXbrRA/viewform?usp=sf_link" >{t('apply-btn')}</Link>
-                            </div>
-                        </div>
                     </div>
                     <div className="col-lg-6 about-img wow fadeInUp">
                         <div className="row">

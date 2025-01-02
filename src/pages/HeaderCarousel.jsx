@@ -1,9 +1,8 @@
 import React from 'react';
-import Slider from 'react-slick';
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import { Link } from 'react-router-dom';
-import ktaketo from '../assets/images/T&M.jpg';
+import ktaketo from '../assets/images/03+++.jpg';
 import charity from '../assets/images/collaboration-partner-hands-600px.jpg';
 import './style.css';
 
